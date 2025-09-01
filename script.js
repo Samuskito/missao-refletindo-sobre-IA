@@ -41,28 +41,28 @@ const perguntas = [
             {
                 texto: " Não, eu suporto bem de boa.",
                 afirmacao: "Então você é uma pessoas que dorme bem"
-            },
-        ]
-    },
-    {
-        enunciado: "Ao planejar um encontro com amigos, qual destas opções parece mais divertida?",
-        alternativas: [
-            {
-                texto: "Um jogo de vôlei ou uma partida de futebol.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
-            },
-            {
-                texto: "Ir a um restaurante ou a um café para conversar.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
     },
     {
-        enunciado: "Qual é a sua atitude em relação a pequenas caminhadas, como ir à padaria ou ao supermercado que ficam a poucas quadras de casa?",
+        enunciado: "Voce acha que rotina ta fazendo bem a sua saúde?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Sim, melhorou muito minha saúde.",
+                afirmacao: "Sua rotina está toda conciliada co suas atividades."
+            },
+            {
+                texto: "Não, estou cada vez mais exausto",
+                afirmacao: "Você deve rever sua rotina."
+            }
+        ]
+    },
+    {
+        enunciado: "Você está indo bem na escola mesmo com suas rotinas cansativas?",
+        alternativas: [
+            {
+                texto: "Sim, estou indo muito bem",
+                afirmacao: "do."
             },
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
