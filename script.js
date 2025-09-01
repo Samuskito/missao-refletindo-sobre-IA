@@ -39,9 +39,9 @@ const perguntas = [
                 afirmacao: "Então você é umas pessoa que descanda pouco"
             },
             {
-                texto: " Não, eu suporto bem de boa.,
+                texto: " Não, eu suporto bem de boa.",
                 afirmacao: "Então você é uma pessoas que dorme bem"
-            }
+            },
         ]
     },
     {
