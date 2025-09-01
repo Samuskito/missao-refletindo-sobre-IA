@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você prefere passar o seu tempo livre no fim de semana?",
+        enunciado: "você gosta de praticar esportes?",
         alternativas: [
             {
-                texto: "Praticando uma atividade física, como andar de bicicleta ou correr ao ar livre.",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Sim, com certeza.",
+                afirmacao: "Então você deve ser uma pessoas ativa esportivamente. "
             },
             {
-                texto: "Relaxando no sofá, assistindo a filmes e séries.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Não pefiro outras coisas.",
+                afirmacao: "Então você deve gostar de ler e assistir."
             }
         ]
     },
     {
-        enunciado: "Qual é a sua ideia de uma escapada para relaxar e recarregar as energias?",
+        enunciado: "Quais das atividades a seguir você prefere?",
         alternativas: [
             {
-                texto: "Uma trilha na natureza ou um passeio de caiaque.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Correr, pedalar, nadar, futebol, basquete, vôlei.",
+                afirmacao: "Então você pratica esportes."
             },
             {
-                texto: "Ficar em casa, pedindo comida e lendo um livro.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Assistir, dormir, mexer no celular, malhar, estudar.",
+                afirmacao: "Então você não gosta de praticar esportes."
             }
         ]
     },
     {
-        enunciado: "Você está subindo as escadas do seu prédio e encontra o elevador vazio. O que você faz?",
+        enunciado: "Você tem uma rotina exaustiva a partir de suas atividades?",
         alternativas: [
             {
-                texto: " Prefere subir pelas escadas para se exercitar um pouco mais.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: " Sim, canso de mais",
+                afirmacao: "Então você é umas pessoa que descanda pouco"
             },
             {
-                texto: "Entrar no elevador, pois é mais rapido e cômodo",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: " Não, eu suporto bem de boa.,
+                afirmacao: "Então você é uma pessoas que dorme bem"
             }
         ]
     },
