@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, com certeza.",
-                afirmacao: "Então você deve ser uma pessoas ativa esportivamente. "
+                afirmacao: "Então você deve ser uma pessoas ativa esportivamente, "
             },
             {
                 texto: "Não pefiro outras coisas.",
