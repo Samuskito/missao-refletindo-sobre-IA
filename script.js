@@ -61,12 +61,12 @@ const perguntas = [
         enunciado: "Você está indo bem na escola mesmo com suas rotinas cansativas?",
         alternativas: [
             {
-                texto: "Sim, estou indo muito bem",
-                afirmacao: "do."
+                texto: "Sim, estou indo muito bem.",
+                afirmacao: "Muito bem ,você é uma pessoa que consegue se dedicar essa rotina cansativa."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Não, estou indo mal.",
+                afirmacao: "Você terá que rever suas tarefas, e deixar um tempo maior para tarefas."
             }
         ]
     },
@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Seu diagnóstico é:";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
